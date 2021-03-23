@@ -1,7 +1,7 @@
 # Media-Query-CSS
 Fun way to Learn Media Query 
 
-# This is what you get when you throw code based to learn media  query
+# This is what you get when you throw code base to learn media  query
 
 ![](mediaquery%20(1).png)
 
